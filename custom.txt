@@ -1,0 +1,7 @@
+https://eshparikh.github.io/ds4200/ 
+imported a font (poppins) from google fonts and applied it to all pages. 
+created a different background color for each page on the website (home and about).
+added a header and footer with a background and padding, as well as centered the text.
+created a navigation bar with text centered and padding.
+removed the underline from the links in the navigation and set spacing and color.
+rounded the corners of images.
